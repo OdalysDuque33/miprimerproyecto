@@ -1,0 +1,26 @@
+1.- debemos de crear un proyecto en la cuenta oficial
+poner login y password.
+2.- debemos de dar clik en crear proyecto 
+en el debemos de llenar la primera casilla con un nombre 
+y la otra con otro nombre y listo se pone al ultimo crear
+3.-descargamos git aplicacion windows.
+instalamos dando solo next puesto que ya biene configurado
+para el uso adecuado.
+4.-debemos de ejecutar git-bash.exe en la carpeta archivos de programa
+5.-debmos de dar un nombre en nuestro caso de esta forma 
+$ git config --global user.name "OdalysDuque33" dar enter
+ponemos el correo mediante este codigo 
+$ git config --global user.email "odalys-33@hotmail.com"
+por si cerramos por error
+$ git config --list 
+y refleja los datos que introducimos 
+para limpiar clear 
+6.- procedemos a crear una carpeta en el escritorio 
+con el nombre proyectosgit la cual servira para 
+poner los repositorios
+de la siguiente metodo 
+introducimos el codigo cd desktop
+luego cd Proyectosgit
+por ultimo git init 
+ y con esto ya podemos ingresar repositorios
+
